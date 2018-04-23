@@ -1,0 +1,39 @@
+/* *{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+} */
+.background-image{
+    top:0px;
+    left: 0px;
+    height: 95vh;
+}
+
+.header-box{
+    /* height:95vh; */
+    color: white;
+    display: block;
+}
+
+.heading-main{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    text-transform: uppercase;
+    /* /* transform: translate(-50%, -50%); */
+    text-align: center; 
+}
+.heading-primary-main{
+    display:block;
+    font-size: 50px;
+    letter-spacing: 2px;
+    font-weight: 400;
+}
+
+.heading-primary-sub{
+    display:block;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 17px;
+}
+
