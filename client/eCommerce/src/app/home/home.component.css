@@ -6,11 +6,12 @@
 .background-image{
     top:0px;
     left: 0px;
-    height: 95vh;
+    width: 100vw;
+    height: 100vh;
 }
 
 .header-box{
-    /* height:95vh; */
+    height:95vh;
     color: white;
     display: block;
 }
@@ -20,7 +21,7 @@
     top: 40%;
     left: 50%;
     text-transform: uppercase;
-    /* /* transform: translate(-50%, -50%); */
+    transform: translate(-50%, -50%);
     text-align: center; 
 }
 .heading-primary-main{
